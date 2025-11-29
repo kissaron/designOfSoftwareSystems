@@ -1,0 +1,3 @@
+This is not actually an image file, it's just text data!
+But it has a .jpg extension to test the validity checker.
+The ImageValidityRule should detect this is invalid.
